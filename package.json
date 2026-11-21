@@ -1,0 +1,1 @@
+{"description":"make.fun bounty entry: a program that writes one short text to /output/entry.txt to relax the AI judge reading it","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"make-the-ai-judge-feel-awe","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
